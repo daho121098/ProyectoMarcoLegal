@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8LWbAyB7BbU=",
+  "dgSpecHash": "2LP8Nogv2VA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\k4os.hash.xxhash\\1.0.8\\k4os.hash.xxhash.1.0.8.nupkg.sha512",
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.3.0\\microsoft.aspnet.webapi.core.5.3.0.nupkg.sha512",
+    "C:\\Users\\Denilson Hi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\microsoft.bcl.asyncinterfaces.9.0.0.nupkg.sha512",
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\mysql.data\\9.4.0\\mysql.data.9.4.0.nupkg.sha512",
@@ -19,7 +20,6 @@
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
-    "C:\\Users\\Denilson Hi\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
     "C:\\Users\\Denilson Hi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
@@ -43,13 +43,13 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "message": "El paquete \"Microsoft.AspNet.WebApi.Core 5.3.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "El paquete \"Microsoft.AspNet.WebApi.Core 5.3.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
       "projectPath": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
       "warningLevel": 1,
       "filePath": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
       "libraryId": "Microsoft.AspNet.WebApi.Core",
       "targetGraphs": [
-        "net8.0"
+        "net6.0"
       ]
     }
   ]
