@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\servicio.proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\servicio.proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Servicio.Proyecto",
+              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
+              "RelativeDocumentMoniker": "Servicio.Proyecto\\Servicio.Proyecto.csproj",
+              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
+              "RelativeToolTip": "Servicio.Proyecto\\Servicio.Proyecto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-09T05:39:26.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ConexionBD.cs",
               "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Clases\\ConexionBD.cs",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Clases\\ConexionBD.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\appsettings.json",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\appsettings.json",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Program.cs",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Program.cs",
@@ -89,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Servicio.Proyecto",
               "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Servicio.Proyecto.csproj",
@@ -101,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Controllers\\UsuarioController.cs",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmpresaController.cs",
               "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Controllers\\EmpresaController.cs",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Controllers\\EmpresaController.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AuditorAsignacion.cs",
               "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Modelos\\AuditorAsignacion.cs",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Modelos\\AuditorAsignacion.cs",
@@ -135,7 +152,8 @@
               "RelativeToolTip": "Servicio.Proyecto\\Modelos\\AuditorAsignacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T15:14:24.223Z"
+              "WhenOpened": "2025-08-08T15:14:24.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -143,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Empresa.cs",
               "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Modelos\\Empresa.cs",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Modelos\\Empresa.cs",
@@ -151,11 +169,12 @@
               "RelativeToolTip": "Servicio.Proyecto\\Modelos\\Empresa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T15:13:20.046Z"
+              "WhenOpened": "2025-08-08T15:13:20.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Modelos\\Usuario.cs",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Modelos\\Usuario.cs",
@@ -163,7 +182,8 @@
               "RelativeToolTip": "Servicio.Proyecto\\Modelos\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAxwAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:49:02.597Z"
+              "WhenOpened": "2025-08-07T23:49:02.597Z",
+              "EditorCaption": ""
             }
           ]
         }
