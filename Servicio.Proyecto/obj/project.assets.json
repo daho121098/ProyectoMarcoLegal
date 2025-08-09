@@ -1795,11 +1795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
       "projectName": "Servicio.Proyecto",
-      "projectPath": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
+      "projectPath": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
       "packagesPath": "C:\\Users\\Denilson Hi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\obj\\",
+      "outputPath": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

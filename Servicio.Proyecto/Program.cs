@@ -19,7 +19,7 @@ app.UseHttpsRedirection();
 
 app.UseRouting();
 
-app.UseAuthorization();
+// app.UseAuthorization();
 
 // Mapear controladores como API REST
 app.MapControllers();

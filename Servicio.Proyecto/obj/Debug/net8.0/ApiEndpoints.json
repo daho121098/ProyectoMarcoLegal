@@ -1,5 +1,85 @@
 [
   {
+    "ContainingType": "Servicio.Proyecto.Controllers.EmpresaController",
+    "Method": "ActualizarEmpresa",
+    "RelativePath": "api/Empresa/actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresa",
+        "Type": "Servicio.Proyecto.Modelos.Empresa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio.Proyecto.Controllers.EmpresaController",
+    "Method": "RegistrarEmpresaAuditor",
+    "RelativePath": "api/Empresa/asignarAuditor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "asignacion",
+        "Type": "Servicio.Proyecto.Modelos.AuditorAsignacion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio.Proyecto.Controllers.EmpresaController",
+    "Method": "ConsultarEmpresa",
+    "RelativePath": "api/Empresa/consultar/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio.Proyecto.Controllers.EmpresaController",
+    "Method": "EliminarEmpresa",
+    "RelativePath": "api/Empresa/eliminar/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Servicio.Proyecto.Controllers.EmpresaController",
+    "Method": "RegistrarEmpresa",
+    "RelativePath": "api/Empresa/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresa",
+        "Type": "Servicio.Proyecto.Modelos.Empresa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Servicio.Proyecto.Controllers.UsuarioController",
     "Method": "ActualizarUsuario",
     "RelativePath": "api/Usuario/actualizar",

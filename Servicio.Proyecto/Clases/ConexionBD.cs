@@ -8,7 +8,7 @@ namespace Servicio.Proyecto.Clases
 {
     public class ConexionBD
     {
-        private readonly string cadenaConexion = "server=marcolegal-060825-antoniodhio1-8804.b.aivencloud.com;port=24361;database=Proyecto_Marco;uid=avnadmin;pwd=AVNS_k_DnTlsqXugfoKYxhG3;SslMode=Required;";
+        private readonly string cadenaConexion = "server=marcolegal-060825-antoniodhio1-8804.b.aivencloud.com;port=24361;database=Proyecto_Marco;uid=avnadmin;pwd=AVNS_k_DnTlsqXugfoKYxhG3;SslMode=none;";
 
         public bool ValidarConexion()
         {
@@ -172,13 +172,156 @@ namespace Servicio.Proyecto.Clases
                     };
                 }
 
-                return null;
+                return new Usuario();
             }
             catch (Exception ex)
             {
                 Console.WriteLine("Error al consultar usuario: " + ex.Message);
+                return new Usuario
+                {
+                    Nombre = "catch: " + ex
+                };
+            }
+        }
+
+        public bool RegistrarEmpresa(Empresa empresa)
+        {
+            try
+            {
+                using var conexion = new MySqlConnection(cadenaConexion);
+                conexion.Open();
+
+                using var cmd = new MySqlCommand("SP_RegistrarEmpresa", conexion)
+                {
+                    CommandType = CommandType.StoredProcedure
+                };
+
+                cmd.Parameters.AddWithValue("p_nombre", empresa.Nombre);
+                cmd.Parameters.AddWithValue("p_sector", empresa.Sector);
+                cmd.Parameters.AddWithValue("p_id_estado", empresa.IdEstado);
+
+                cmd.ExecuteNonQuery();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error al registrar empresa: " + ex.Message);
+                return false;
+            }
+        }
+
+        public Empresa ConsultarEmpresa(int idEmpresa)
+        {
+            try
+            {
+                using var conexion = new MySqlConnection(cadenaConexion);
+                conexion.Open();
+
+                using var cmd = new MySqlCommand("SP_ConsultarEmpresa", conexion)
+                {
+                    CommandType = CommandType.StoredProcedure
+                };
+
+                cmd.Parameters.AddWithValue("p_id_empresa", idEmpresa);
+
+                using var reader = cmd.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    return new Empresa
+                    {
+                        IdEmpresa = idEmpresa,
+                        Nombre = reader["nombre"].ToString(),
+                        Sector = reader["sector"].ToString(),
+                        IdEstado = Convert.ToInt32(reader["id_estado"])
+                    };
+                }
+
+                return null;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error al consultar empresa: " + ex.Message);
                 return null;
             }
         }
+
+        public bool ActualizarEmpresa(Empresa empresa)
+        {
+            try
+            {
+                using var conexion = new MySqlConnection(cadenaConexion);
+                conexion.Open();
+
+                using var cmd = new MySqlCommand("SP_ActualizarEmpresa", conexion)
+                {
+                    CommandType = CommandType.StoredProcedure
+                };
+
+                cmd.Parameters.AddWithValue("p_id_empresa", empresa.IdEmpresa);
+                cmd.Parameters.AddWithValue("p_nombre", empresa.Nombre);
+                cmd.Parameters.AddWithValue("p_sector", empresa.Sector);
+                cmd.Parameters.AddWithValue("p_id_estado", empresa.IdEstado);
+
+                cmd.ExecuteNonQuery();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error al actualizar empresa: " + ex.Message);
+                return false;
+            }
+        }
+
+        public bool EliminarEmpresa(int idEmpresa)
+        {
+            try
+            {
+                using var conexion = new MySqlConnection(cadenaConexion);
+                conexion.Open();
+
+                using var cmd = new MySqlCommand("SP_EliminarEmpresa", conexion)
+                {
+                    CommandType = CommandType.StoredProcedure
+                };
+
+                cmd.Parameters.AddWithValue("p_id_empresa", idEmpresa);
+
+                cmd.ExecuteNonQuery();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error al eliminar empresa: " + ex.Message);
+                return false;
+            }
+        }
+
+        public bool RegistrarEmpresaAuditor(AuditorAsignacion asignacion)
+        {
+            try
+            {
+                using var conexion = new MySqlConnection(cadenaConexion);
+                conexion.Open();
+
+                using var cmd = new MySqlCommand("SP_RegistrarEmpresaAuditor", conexion)
+                {
+                    CommandType = CommandType.StoredProcedure
+                };
+
+                cmd.Parameters.AddWithValue("p_id_empresa", asignacion.IdEmpresa);
+                cmd.Parameters.AddWithValue("p_id_usuario", asignacion.IdUsuario);
+
+                cmd.ExecuteNonQuery();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error al asignar auditor: " + ex.Message);
+                return false;
+            }
+        }
+
+
     }
 }

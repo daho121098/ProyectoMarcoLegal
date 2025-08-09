@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\",
+  "WorkspaceRootPath": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\proyectomarcolegal\\servicio.proyecto\\clases\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\clases\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\proyectomarcolegal\\servicio.proyecto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\proyectomarcolegal\\servicio.proyecto\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\clases\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\clases\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\proyectomarcolegal\\servicio.proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\modelos\\auditorasignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\modelos\\auditorasignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\servicio.proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\servicio.proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\proyectomarcolegal\\servicio.proyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\proyectomarcolegal\\servicio.proyecto\\servicio.proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\servicio.proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|c:\\users\\denilson hi\\source\\repos\\daho121098\\servicio.proyecto\\servicio.proyecto\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED1CF1D-FB0D-4B67-B694-D3E44C76BA83}|Servicio.Proyecto\\Servicio.Proyecto.csproj|solutionrelative:servicio.proyecto\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,49 +54,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Modelos\\Usuario.cs",
-              "RelativeDocumentMoniker": "Servicio.Proyecto\\Modelos\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Modelos\\Usuario.cs",
-              "RelativeToolTip": "Servicio.Proyecto\\Modelos\\Usuario.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:49:02.597Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\appsettings.json",
-              "RelativeDocumentMoniker": "Servicio.Proyecto\\appsettings.json",
-              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\appsettings.json",
-              "RelativeToolTip": "Servicio.Proyecto\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-07T23:31:06.609Z"
+              "Title": "AuditorAsignacion.cs",
+              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Modelos\\AuditorAsignacion.cs",
+              "RelativeDocumentMoniker": "Servicio.Proyecto\\Modelos\\AuditorAsignacion.cs",
+              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Modelos\\AuditorAsignacion.cs",
+              "RelativeToolTip": "Servicio.Proyecto\\Modelos\\AuditorAsignacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:14:24.223Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Modelos\\Empresa.cs",
+              "RelativeDocumentMoniker": "Servicio.Proyecto\\Modelos\\Empresa.cs",
+              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Modelos\\Empresa.cs",
+              "RelativeToolTip": "Servicio.Proyecto\\Modelos\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:13:20.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "Servicio.Proyecto\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "Servicio.Proyecto\\Controllers\\EmpresaController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:05:40.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Servicio.Proyecto\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T23:17:29.063Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Clases\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Servicio.Proyecto\\Clases\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Clases\\ConexionBD.cs",
+              "RelativeToolTip": "Servicio.Proyecto\\Clases\\ConexionBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:10:49.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Program.cs",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Program.cs",
-              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Program.cs",
               "RelativeToolTip": "Servicio.Proyecto\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T23:14:36.071Z"
             },
@@ -92,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Servicio.Proyecto.csproj",
-              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
+              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
               "RelativeDocumentMoniker": "Servicio.Proyecto\\Servicio.Proyecto.csproj",
-              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
+              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Servicio.Proyecto.csproj",
               "RelativeToolTip": "Servicio.Proyecto\\Servicio.Proyecto.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -102,16 +139,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConexionBD.cs",
-              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Clases\\ConexionBD.cs",
-              "RelativeDocumentMoniker": "Servicio.Proyecto\\Clases\\ConexionBD.cs",
-              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\ProyectoMarcoLegal\\Servicio.Proyecto\\Clases\\ConexionBD.cs",
-              "RelativeToolTip": "Servicio.Proyecto\\Clases\\ConexionBD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\appsettings.json",
+              "RelativeDocumentMoniker": "Servicio.Proyecto\\appsettings.json",
+              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\appsettings.json",
+              "RelativeToolTip": "Servicio.Proyecto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T23:31:06.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Servicio.Proyecto\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Denilson Hi\\source\\repos\\daho121098\\Servicio.Proyecto\\Servicio.Proyecto\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "Servicio.Proyecto\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:10:49.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T23:49:02.597Z"
             }
           ]
         }
